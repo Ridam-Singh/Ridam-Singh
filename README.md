@@ -1,9 +1,19 @@
 #### 👋 Hey there! I’m @Ridam-Singh
+
+
 - 👀 Passionate about: Building innovative web and mobile apps with a blend of functionality and great design!
 - 🌱 Skills: Proficient in C, C++, and Core Java, and currently expanding my toolkit with Advanced Java(JavaScript).
 - 💞️ Let’s team up: Open to collaborating on projects that push the limits of tech and creativity!
 - 📫 Reach me: Drop me a line at simghridam4@gmail.com or connect on LinkedIn!
 - ⚡ Fun fact: Always up for a tech challenge and love exploring the latest trends in development!
+
+# 🌎 Connect with: 
+
+<a href="https://www.linkedin.com/in/ridam-singh-017a7a337/" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" height="30" alt="LinkedIn">
+</a>
+
+
 
 ## Languages 
 
